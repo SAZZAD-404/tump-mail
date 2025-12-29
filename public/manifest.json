@@ -1,0 +1,17 @@
+{
+  "name": "TUMPMAIL - Professional Privacy",
+  "short_name": "TumpMail",
+  "description": "Professional Temporary Identity Infrastructure",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/globe.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
